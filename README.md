@@ -2,4 +2,6 @@
     <img src="./assets/images/scenic_logo.png" title="Lambda School Logo" width="200" align="right">
 </a>
 
-# The 'Scenic Realty Co.' Web App
+# The Scenic Realty Co. Web App
+
+![MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
