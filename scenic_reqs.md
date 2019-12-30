@@ -1,4 +1,4 @@
-# Scenic Realty Co. Web App Requirements
+# Scenic Realty Co. Web App v1.0 Requirements
 
 ## PAGES
 
@@ -27,20 +27,24 @@
 ### Admin ("Staff") Users
 
 - As a "staff" user, I want to manage listings, realtors, contact inquiries, and
-  settings for the web app through an admin dashboard.
+  general settings for the web app through an admin dashboard.
 - As a "staff" user, when I am editing a listing, I want to have the choice of
   setting a listing to "unpublished" so that "nonStaff" users won't be able to
   see the listing until it has been set to the "published" setting.
 - As a "staff" user, I want to have the ability to list outstanding real estate
   agents on the About page, under the "Agent of the Month" heading.
-- As a "staff" user, when a "nonStaff" user ("registered" & "nonRegistered") has
+- As a "staff" user, when a registered/unregistered "nonStaff" user has
   submitted a inquiry form to our database, I want to be notified via email.
-- As a "staff" user, when a "nonStaff" user clicks the main photo on an
-  individual listing page, I want to give the "nonStaff" user the ability to
-  view more photos of that listing without having to manually click to scroll
-  through them (automatic scrolling).
+- As a "staff" user, when a registered/unregistered "nonStaff" user clicks the
+  large main photo on an individual listing page, I want that "nonStaff" user to
+  have the ability to view more photos of that listing _without_ having to
+  manually scroll through each photo them (carousel-styled automatic scrolling).
 - As a "staff" user, I want to limit registered "nonStaff" users to only **ONE**
   inquiry submission per listing.
+- As a "staff" user, when I create/edit a listing via my admin dashboard, I want
+  to be able to enter the following information for that listing: title,
+  address/city/state/zip, price, bedrooms, bathrooms, square feet, lot size,
+  garage, listing date, real estate agent, main image, and 5 alternate images.
 
 ### Registered/Unregistered ("NonStaff") Users
 
@@ -51,9 +55,9 @@
 - As a registered/unregistered "nonStaff" user, I want to be able to search for
   home listings by: keyword, city, state, bedrooms, or price.
 - As a registered/unregistered "nonStaff" user, when I click on a listing, I
-  want to be taken to an individual listing page for that specific listing, so I
-  can view more in-depth information regarding that listing (i.e. - price,
-  bedroooms, bathrooms, etc).
+  want to be taken to an individual listing page for that specific listing,
+  where I can view more in-depth information regarding that listing (i.e. -
+  price, bedroooms, bathrooms, etc).
 - As a registered/unregistered "nonStaff" user, when I'm on the individual
   listing page for a listing and I click on the large main photo, I want a new
   window to pop up on my screen that allows me to view more photos of that
@@ -73,3 +77,8 @@
 - As a _registered_ "nonStaff" user, when I navigate to my user dashboard, I
   want to be able to view the Calendly availability of the listing-specific real
   estate agent via their Calendly page.
+
+## Possible Features for v2.0
+
+- Google maps integration on the individual listing page
+- Satsified customer testimonials on the About page
