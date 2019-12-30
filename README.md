@@ -1,4 +1,4 @@
-<a href="https://hellotico.com">
+<a href="http://scenicrealtyco.com/">
     <img src="./assets/images/scenic_favicon.png" title="Lambda School Logo" width="100" align="right">
 </a>
 
