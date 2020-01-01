@@ -7,5 +7,6 @@ from . import views
 urlpatterns = [
   # (<root path for home page>, <method to connect to>, <name used to access
   # this path>)
-  path('', views.index, name='index')
+  path('', views.index, name='index'),
+  path('about', views.about, name='about'),
 ]
