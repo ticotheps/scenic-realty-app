@@ -6,6 +6,6 @@ from . import views
 
 urlpatterns = [
   # (<root path for home page>, <method to connect to>, <name used to access
-  # this view>)
+  # this path>)
   path('', views.index, name='index')
 ]
