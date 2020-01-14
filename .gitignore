@@ -11,7 +11,7 @@ local_settings.py
 settings.py
 db.sqlite3
 db.sqlite3-journal
-media
+/media
 .venv
 .vscode
 .env
@@ -126,3 +126,6 @@ dmypy.json
 # End of https://www.gitignore.io/api/django
 
 .DS_Store
+
+# Root 'static/' directory
+/static
