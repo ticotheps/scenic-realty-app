@@ -17,9 +17,14 @@
 		<title>Scenic Realty Co.</title>
 	</head>
 	<body>
+		<!-- Top Bar -->
+		{% include 'partials/_topbar.html' %}
+		<!-- NavBar -->
+		{% include 'partials/_navbar.html' %}
 		<!-- Jinja syntax that inserts templates here (like with React's app.js & virtual DOM) -->
 		{% block content %} {% endblock %}
-		
+		<!-- Footer -->
+		{% include 'partials/_footer.html' %}
 		<script src="{% static 'js/jquery-3.3.1.min.js' %}"></script>
 		<script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
 		<script src="{% static 'js/lightbox.min.js' %}"></script>
