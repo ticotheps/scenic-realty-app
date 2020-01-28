@@ -20,7 +20,11 @@ img {
 }
 
 #showcase {
-	background: url(../img/showcase.jpg) center;
+	background: url(../img/showcase.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 	position: relative;
 	min-height: 650px;
 	color: #fff;
