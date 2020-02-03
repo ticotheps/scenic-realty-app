@@ -3,7 +3,7 @@
 }
 
 img {
-	width: 100%;
+	width: 75%;
 }
 
 .logo {
@@ -11,7 +11,7 @@ img {
 }
 
 .navbar {
-	opacity: 0.9;
+	opacity: 1;
 	text-transform: uppercase;
 }
 
@@ -62,13 +62,13 @@ img {
 	left: 0;
 	min-height: 100%;
 	width: 100%;
-	background: rgba(32, 134, 107, 0.8);
+	background: rgba(0, 0, 0, 0.5) !important;
 }
 
 #showcase-inner {
 	background: url(../img/golden_hour.jpg);
 	background-attachment: fixed;
-	background-position: bottom;
+	background-position: 50% 100%;
 	background-repeat: repeat;
 	background-size: cover;
 	position: relative;
@@ -82,7 +82,7 @@ img {
 	left: 0;
 	min-height: 100%;
 	width: 100%;
-	background: rgba(32, 134, 107, 0.8);
+	background: rgba(0, 0, 0, 0.6) !important;
 }
 #showcase-inner.showcase-search {
 	min-height: 270px;
