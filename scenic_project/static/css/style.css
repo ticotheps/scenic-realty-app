@@ -62,7 +62,7 @@ img {
 	left: 0;
 	min-height: 100%;
 	width: 100%;
-	background: rgba(137, 23, 28, 0.7) !important;
+	background: rgba(0,0,0, 0.5) !important;
 }
 
 #showcase-inner {
