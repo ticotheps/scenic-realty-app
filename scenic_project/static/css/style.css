@@ -82,7 +82,7 @@ img {
 	left: 0;
 	min-height: 100%;
 	width: 100%;
-	background: rgba(rgba(137, 23, 28, 0.7));
+	background: rgba(137, 23, 28, 0.7) !important;
 }
 #showcase-inner.showcase-search {
 	min-height: 270px;
