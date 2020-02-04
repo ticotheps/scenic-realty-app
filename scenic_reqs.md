@@ -56,8 +56,22 @@
   home listings by: keyword, city, state, bedrooms, or price.
 - As a registered/unregistered "nonStaff" user, when I click on a listing, I
   want to be taken to an individual listing page for that specific listing,
-  where I can view more in-depth information regarding that listing (i.e. -
-  price, bedroooms, bathrooms, etc).
+  where I can view more in-depth information that includes:
+  - listing realtor
+  - title of the listing
+  - address
+  - city
+  - state
+  - zipcode
+  - description
+  - price
+  - num. of bedrooms
+  - num. of bathrooms
+  - garage
+  - num. of sqft
+  - lot size (in acres)
+  - list date
+  - photos (1 main photo + 5 other photos) price, bedroooms, bathrooms, etc).
 - As a registered/unregistered "nonStaff" user, when I'm on the individual
   listing page for a listing and I click on the large main photo, I want a new
   window to pop up on my screen that allows me to view more photos of that
