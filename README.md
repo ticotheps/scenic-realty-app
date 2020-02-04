@@ -1,5 +1,7 @@
-<a href="http://scenicrealtyco.com/">
-    <img src="./assets/images/scenic_favicon.png" title="Lambda School Logo" width="100" align="right">
+<a href="https://scenicrealty.co/">
+    <img
+    src="https://res.cloudinary.com/tico-cloudinary/image/upload/v1580839175/scenic_project/scenic_favicon_bnjped.png"
+    title="Scenic small logo" width="100" align="right">
 </a>
 
 # The Scenic Realty Co. Web App
@@ -7,8 +9,8 @@
 ![MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 <p align="center">
-    <a href="https://hellotico.com/">
-        <img src="./assets/images/scenic_logo.png" alt="New ENDRSD logo" width="400">
+    <a href="https://scenicrealty.co/">
+        <img src="https://res.cloudinary.com/tico-cloudinary/image/upload/v1580839266/scenic_project/scenic_logo_b9fyvs.png" alt="Scenic large logo" width="400">
     </a>
 </p>
 
