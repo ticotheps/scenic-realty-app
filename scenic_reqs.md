@@ -71,7 +71,7 @@
   - num. of sqft
   - lot size (in acres)
   - list date
-  - photos (1 main photo + 5 other photos) price, bedroooms, bathrooms, etc).
+  - photos (1 main photo + 6 other photos)
 - As a registered/unregistered "nonStaff" user, when I'm on the individual
   listing page for a listing and I click on the large main photo, I want a new
   window to pop up on my screen that allows me to view more photos of that
