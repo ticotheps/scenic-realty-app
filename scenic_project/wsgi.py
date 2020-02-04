@@ -11,6 +11,9 @@ import os
 from dotenv import load_dotenv
 from django.core.wsgi import get_wsgi_application
 
+scenic_project = os.path.expanduser('~/scenic_project')
+load_dotenv(os.path.join(scenic_project, '.env'))
+
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'scenic_project.settings')
 
 application = get_wsgi_application()
