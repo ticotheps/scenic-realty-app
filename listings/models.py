@@ -33,6 +33,11 @@ class Listing(models.Model):
   photo_13 = models.ImageField(upload_to='photos/%Y/%m/%d/', blank=True)
   photo_14 = models.ImageField(upload_to='photos/%Y/%m/%d/', blank=True)
   photo_15 = models.ImageField(upload_to='photos/%Y/%m/%d/', blank=True)
+  photo_16 = models.ImageField(upload_to='photos/%Y/%m/%d/', blank=True)
+  photo_17 = models.ImageField(upload_to='photos/%Y/%m/%d/', blank=True)
+  photo_18 = models.ImageField(upload_to='photos/%Y/%m/%d/', blank=True)
+  photo_19 = models.ImageField(upload_to='photos/%Y/%m/%d/', blank=True)
+  photo_20 = models.ImageField(upload_to='photos/%Y/%m/%d/', blank=True)
   is_published = models.BooleanField(default=True)
   list_date = models.DateTimeField(default=datetime.now, blank=True)
   def __str__(self):
