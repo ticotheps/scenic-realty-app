@@ -43,3 +43,9 @@ div.breadcrumbs {
 div.breadcrumbs a {
 	color: #fff;
 }
+
+.module caption,
+.inline-group h2 {
+	font-size: 14px;
+	background: #89171c;
+}
