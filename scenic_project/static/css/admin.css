@@ -9,7 +9,7 @@
 }
 
 #user-tools {
-	font-size: 14px;
+	font-size: 15px;
 }
 
 td,
@@ -29,6 +29,17 @@ a:visited {
 	color: #32568f;
 }
 
+div.breadcrumbs a:focus,
+div.breadcrumbs a:hover {
+	color: #10284e;
+}
+
 div.breadcrumbs {
 	background: #89171c;
+	color: #fff;
+	font-size: 16px;
+}
+
+div.breadcrumbs a {
+	color: #fff;
 }
