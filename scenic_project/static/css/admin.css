@@ -7,3 +7,19 @@
 #branding h1 {
 	color: #fff;
 }
+
+#user-tools {
+	font-size: 14px;
+}
+
+td,
+th,
+li,
+dt,
+dd {
+	font-size: 14px;
+}
+
+.mini {
+	font-size: 12px;
+}
