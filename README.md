@@ -30,8 +30,8 @@ _**FIRST**_ paid project since the our company was founded on 12/12/19!
 
 ## Contributors
 
-|                                                                                                               [Tico Thepsourinthone](https://hellotico.com)                                                                                                                |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://media.licdn.com/dms/image/C4E03AQGIjp9UmRoNXA/profile-displayphoto-shrink_200_200/0?e=1580947200&v=beta&t=dBsaPOgtSOFOmYON2OC2LdrN7qHwLL2Q41V0MqPMDZo" width= "150" height="auto" style="object-fit:cover; overflow:hidden;" />](https://hellotico.com) |
-|                                                                                           [<img src="https://github.com/favicon.ico" width="30"> ](https://github.com/ticotheps)                                                                                           |
-|                                                                         [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/ticotheps/)                                                                         |
+|                                                                                        [Tico Thepsourinthone](https://hellotico.com)                                                                                        |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://res.cloudinary.com/tico-cloudinary/image/upload/v1581317039/scenic_project/linked_in_avatar_ubdm2z.jpg" width= "150" height="auto" style="object-fit:cover; overflow:hidden;" />](https://hellotico.com) |
+|                                                                   [<img src="https://github.com/favicon.ico" width="30"> ](https://github.com/ticotheps)                                                                    |
+|                                                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/ticotheps/)                                                  |
