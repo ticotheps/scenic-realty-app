@@ -23,3 +23,12 @@ dd {
 .mini {
 	font-size: 12px;
 }
+
+a:link,
+a:visited {
+	color: #32568f;
+}
+
+div.breadcrumbs {
+	background: #89171c;
+}
